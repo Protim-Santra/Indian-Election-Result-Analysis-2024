@@ -1,0 +1,1 @@
+This SQL Data Analysis Project aims to find answers for certain questions using different queries from a database containing five tables which are having constituency wise, candidate wise, party wise, state wise etc. data.
